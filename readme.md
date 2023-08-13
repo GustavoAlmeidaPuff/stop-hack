@@ -1,0 +1,1 @@
+É um "hack"/gabarito para o jogo "stop" no qual usa listas do python para arquivar a base de dados com palavras e as letras que elas começam
